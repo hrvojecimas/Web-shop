@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+  
+    <title></title>
+</head>
+<body>
+    <div>
+        @if (TempData["message"] != null)
+        {
+            <div class="alert alert-success">@TempData["message"]</div>
+        }
+        @{
+            var UserName = HttpContext.Current.User.Identity.Name;
+            if (UserName != "")
+        { 
+                <h3>Online Shopping Store
+                <span class="btn-info btn pull-right">
+                @Html.ActionLink(HttpContext.Current.User.Identity.Name + " - Logout", "List", "Product")
+                </span>       
+                </h3>
+                
+           
+            
+        }    
+        }
+
+        @RenderBody()
+    </div>
+</body>
+</html>

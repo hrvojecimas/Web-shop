@@ -1,0 +1,680 @@
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Projekt.dll.config
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Projekt.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Projekt.pdb
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Antlr3.Runtime.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Castle.Core.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\EntityFramework.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\EntityFramework.SqlServer.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Core.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.Owin.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.Owin.Security.Cookies.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.Owin.Security.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.Owin.Security.Facebook.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.Owin.Security.Google.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.Owin.Security.OAuth.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.Owin.Security.Twitter.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Moq.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Newtonsoft.Json.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Ninject.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Ninject.Web.Common.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Ninject.Web.Mvc.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Owin.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\System.Web.Helpers.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\System.Web.Mvc.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\System.Web.Optimization.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\System.Web.Razor.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\System.Web.WebPages.Deployment.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\System.Web.WebPages.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\System.Web.WebPages.Razor.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\WebActivatorEx.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\WebGrease.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Castle.Core.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\EntityFramework.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\EntityFramework.SqlServer.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Moq.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Ninject.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Ninject.Web.Common.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Ninject.Web.Mvc.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\System.Web.Helpers.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\System.Web.Mvc.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\System.Web.Optimization.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\System.Web.Razor.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\System.Web.WebPages.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\System.Web.WebPages.Deployment.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\System.Web.WebPages.Razor.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Newtonsoft.Json.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Antlr3.Runtime.pdb
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Core.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.Owin.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.Owin.Security.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.Owin.Security.Facebook.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.Owin.Security.Cookies.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.Owin.Security.OAuth.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.Owin.Security.Google.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.Owin.Security.Twitter.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\obj\Debug\Projekt.dll
+c:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Rabbit.Bootstrap.dll
+C:\Users\Korisnik\Documents\Visual Studio 2013\Projects\Projekt\Projekt\bin\Rabbit.Bootstrap.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Projekt.dll.config
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Projekt.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Projekt.pdb
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Antlr3.Runtime.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Castle.Core.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\EntityFramework.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\EntityFramework.SqlServer.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.Owin.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.Owin.Security.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Moq.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Newtonsoft.Json.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Ninject.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Ninject.Web.Common.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Ninject.Web.Mvc.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Owin.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Rabbit.Bootstrap.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\System.Web.Helpers.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\System.Web.Mvc.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\System.Web.Optimization.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\System.Web.Razor.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\System.Web.WebPages.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\System.Web.WebPages.Razor.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\WebActivatorEx.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\WebGrease.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Castle.Core.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\EntityFramework.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\EntityFramework.SqlServer.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Moq.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Ninject.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Ninject.Web.Common.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Ninject.Web.Mvc.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Rabbit.Bootstrap.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\System.Web.Helpers.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\System.Web.Mvc.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\System.Web.Optimization.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\System.Web.Razor.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\System.Web.WebPages.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\System.Web.WebPages.Razor.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Newtonsoft.Json.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Antlr3.Runtime.pdb
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.Owin.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.Owin.Security.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Projekt\Projekt\obj\Debug\Projekt.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Projekt.dll.config
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Projekt.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Projekt.pdb
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Antlr3.Runtime.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Castle.Core.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\EntityFramework.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\EntityFramework.SqlServer.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.Owin.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.Owin.Security.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Moq.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Newtonsoft.Json.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Ninject.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Ninject.Web.Common.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Ninject.Web.Mvc.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Owin.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Rabbit.Bootstrap.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\System.Web.Helpers.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\System.Web.Mvc.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\System.Web.Optimization.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\System.Web.Razor.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\System.Web.WebPages.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\System.Web.WebPages.Razor.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\WebActivatorEx.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\WebGrease.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Castle.Core.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\EntityFramework.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\EntityFramework.SqlServer.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Moq.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Ninject.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Ninject.Web.Common.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Ninject.Web.Mvc.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Rabbit.Bootstrap.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\System.Web.Helpers.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\System.Web.Mvc.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\System.Web.Optimization.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\System.Web.Razor.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\System.Web.WebPages.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\System.Web.WebPages.Razor.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Newtonsoft.Json.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Antlr3.Runtime.pdb
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.Owin.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.Owin.Security.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\obj\Debug\Projekt.dll
+C:\Users\cimi\Desktop\p1\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Projekt.dll.config
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Projekt.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Projekt.pdb
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Antlr3.Runtime.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Castle.Core.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\EntityFramework.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\EntityFramework.SqlServer.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.Owin.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.Owin.Security.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Moq.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Newtonsoft.Json.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Ninject.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Ninject.Web.Common.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Ninject.Web.Mvc.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Owin.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Rabbit.Bootstrap.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\System.Web.Helpers.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\System.Web.Mvc.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\System.Web.Optimization.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\System.Web.Razor.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\System.Web.WebPages.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\System.Web.WebPages.Razor.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\WebActivatorEx.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\WebGrease.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Castle.Core.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\EntityFramework.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\EntityFramework.SqlServer.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Moq.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Ninject.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Ninject.Web.Common.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Ninject.Web.Mvc.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Rabbit.Bootstrap.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\System.Web.Helpers.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\System.Web.Mvc.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\System.Web.Optimization.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\System.Web.Razor.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\System.Web.WebPages.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\System.Web.WebPages.Razor.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Newtonsoft.Json.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Antlr3.Runtime.pdb
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.Owin.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.Owin.Security.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\obj\Debug\Projekt.dll
+C:\Users\Korisnik\Desktop\p1\p1novo\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Projekt.dll.config
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Projekt.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Projekt.pdb
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Antlr3.Runtime.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Castle.Core.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\EntityFramework.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\EntityFramework.SqlServer.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.Owin.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.Owin.Security.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Moq.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Newtonsoft.Json.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Ninject.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Ninject.Web.Common.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Ninject.Web.Mvc.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Owin.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Rabbit.Bootstrap.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\System.Web.Helpers.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\System.Web.Mvc.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\System.Web.Optimization.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\System.Web.Razor.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\System.Web.WebPages.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\System.Web.WebPages.Razor.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\WebActivatorEx.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\WebGrease.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Castle.Core.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\EntityFramework.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\EntityFramework.SqlServer.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Moq.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Ninject.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Ninject.Web.Common.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Ninject.Web.Mvc.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Rabbit.Bootstrap.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\System.Web.Helpers.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\System.Web.Mvc.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\System.Web.Optimization.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\System.Web.Razor.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\System.Web.WebPages.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\System.Web.WebPages.Razor.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Newtonsoft.Json.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Antlr3.Runtime.pdb
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.Owin.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.Owin.Security.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\obj\Debug\Projekt.dll
+C:\Users\Korisnik\Desktop\p22\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Projekt.dll.config
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Projekt.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Projekt.pdb
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Antlr3.Runtime.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Castle.Core.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\EntityFramework.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\EntityFramework.SqlServer.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.Owin.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.Owin.Security.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Moq.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Newtonsoft.Json.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Ninject.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Ninject.Web.Common.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Ninject.Web.Mvc.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Owin.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Rabbit.Bootstrap.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\System.Web.Helpers.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\System.Web.Mvc.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\System.Web.Optimization.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\System.Web.Razor.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\System.Web.WebPages.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\System.Web.WebPages.Razor.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\WebActivatorEx.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\WebGrease.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Castle.Core.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\EntityFramework.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\EntityFramework.SqlServer.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Moq.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Ninject.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Ninject.Web.Common.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Ninject.Web.Mvc.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Rabbit.Bootstrap.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\System.Web.Helpers.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\System.Web.Mvc.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\System.Web.Optimization.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\System.Web.Razor.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\System.Web.WebPages.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\System.Web.WebPages.Razor.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Newtonsoft.Json.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Antlr3.Runtime.pdb
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.Owin.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.Owin.Security.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\obj\Debug\Projekt.dll
+C:\Users\Korisnik\Desktop\p33\Projekt\Projekt\obj\Debug\Projekt.pdb
+G:\Projekt\Projekt\bin\Projekt.dll.config
+G:\Projekt\Projekt\bin\Projekt.dll
+G:\Projekt\Projekt\bin\Projekt.pdb
+G:\Projekt\Projekt\bin\Antlr3.Runtime.dll
+G:\Projekt\Projekt\bin\Castle.Core.dll
+G:\Projekt\Projekt\bin\EntityFramework.dll
+G:\Projekt\Projekt\bin\EntityFramework.SqlServer.dll
+G:\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Projekt\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Projekt\Projekt\bin\Microsoft.Owin.dll
+G:\Projekt\Projekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Projekt\Projekt\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Projekt\Projekt\bin\Microsoft.Owin.Security.dll
+G:\Projekt\Projekt\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Projekt\Projekt\bin\Microsoft.Owin.Security.Google.dll
+G:\Projekt\Projekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Projekt\Projekt\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Projekt\Projekt\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Projekt\Projekt\bin\Microsoft.Web.Infrastructure.dll
+G:\Projekt\Projekt\bin\Moq.dll
+G:\Projekt\Projekt\bin\Newtonsoft.Json.dll
+G:\Projekt\Projekt\bin\Ninject.dll
+G:\Projekt\Projekt\bin\Ninject.Web.Common.dll
+G:\Projekt\Projekt\bin\Ninject.Web.Mvc.dll
+G:\Projekt\Projekt\bin\Owin.dll
+G:\Projekt\Projekt\bin\Rabbit.Bootstrap.dll
+G:\Projekt\Projekt\bin\System.Web.Helpers.dll
+G:\Projekt\Projekt\bin\System.Web.Mvc.dll
+G:\Projekt\Projekt\bin\System.Web.Optimization.dll
+G:\Projekt\Projekt\bin\System.Web.Razor.dll
+G:\Projekt\Projekt\bin\System.Web.WebPages.Deployment.dll
+G:\Projekt\Projekt\bin\System.Web.WebPages.dll
+G:\Projekt\Projekt\bin\System.Web.WebPages.Razor.dll
+G:\Projekt\Projekt\bin\WebActivatorEx.dll
+G:\Projekt\Projekt\bin\WebGrease.dll
+G:\Projekt\Projekt\bin\Castle.Core.xml
+G:\Projekt\Projekt\bin\EntityFramework.xml
+G:\Projekt\Projekt\bin\EntityFramework.SqlServer.xml
+G:\Projekt\Projekt\bin\Moq.xml
+G:\Projekt\Projekt\bin\Ninject.xml
+G:\Projekt\Projekt\bin\Ninject.Web.Common.xml
+G:\Projekt\Projekt\bin\Ninject.Web.Mvc.xml
+G:\Projekt\Projekt\bin\Rabbit.Bootstrap.xml
+G:\Projekt\Projekt\bin\System.Web.Helpers.xml
+G:\Projekt\Projekt\bin\System.Web.Mvc.xml
+G:\Projekt\Projekt\bin\System.Web.Optimization.xml
+G:\Projekt\Projekt\bin\System.Web.Razor.xml
+G:\Projekt\Projekt\bin\System.Web.WebPages.xml
+G:\Projekt\Projekt\bin\System.Web.WebPages.Deployment.xml
+G:\Projekt\Projekt\bin\System.Web.WebPages.Razor.xml
+G:\Projekt\Projekt\bin\Newtonsoft.Json.xml
+G:\Projekt\Projekt\bin\Antlr3.Runtime.pdb
+G:\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Projekt\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Projekt\Projekt\bin\Microsoft.Owin.xml
+G:\Projekt\Projekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Projekt\Projekt\bin\Microsoft.Owin.Security.xml
+G:\Projekt\Projekt\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Projekt\Projekt\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Projekt\Projekt\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Projekt\Projekt\bin\Microsoft.Owin.Security.Google.xml
+G:\Projekt\Projekt\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Projekt\Projekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+G:\Projekt\Projekt\obj\Debug\Projekt.dll
+G:\Projekt\Projekt\obj\Debug\Projekt.pdb
+I:\Projekt\Projekt\bin\Projekt.dll.config
+I:\Projekt\Projekt\bin\Projekt.dll
+I:\Projekt\Projekt\bin\Projekt.pdb
+I:\Projekt\Projekt\bin\Antlr3.Runtime.dll
+I:\Projekt\Projekt\bin\Castle.Core.dll
+I:\Projekt\Projekt\bin\EntityFramework.dll
+I:\Projekt\Projekt\bin\EntityFramework.SqlServer.dll
+I:\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Core.dll
+I:\Projekt\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\Projekt\Projekt\bin\Microsoft.Owin.dll
+I:\Projekt\Projekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\Projekt\Projekt\bin\Microsoft.Owin.Security.Cookies.dll
+I:\Projekt\Projekt\bin\Microsoft.Owin.Security.dll
+I:\Projekt\Projekt\bin\Microsoft.Owin.Security.Facebook.dll
+I:\Projekt\Projekt\bin\Microsoft.Owin.Security.Google.dll
+I:\Projekt\Projekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\Projekt\Projekt\bin\Microsoft.Owin.Security.OAuth.dll
+I:\Projekt\Projekt\bin\Microsoft.Owin.Security.Twitter.dll
+I:\Projekt\Projekt\bin\Microsoft.Web.Infrastructure.dll
+I:\Projekt\Projekt\bin\Moq.dll
+I:\Projekt\Projekt\bin\Newtonsoft.Json.dll
+I:\Projekt\Projekt\bin\Ninject.dll
+I:\Projekt\Projekt\bin\Ninject.Web.Common.dll
+I:\Projekt\Projekt\bin\Ninject.Web.Mvc.dll
+I:\Projekt\Projekt\bin\Owin.dll
+I:\Projekt\Projekt\bin\Rabbit.Bootstrap.dll
+I:\Projekt\Projekt\bin\System.Web.Helpers.dll
+I:\Projekt\Projekt\bin\System.Web.Mvc.dll
+I:\Projekt\Projekt\bin\System.Web.Optimization.dll
+I:\Projekt\Projekt\bin\System.Web.Razor.dll
+I:\Projekt\Projekt\bin\System.Web.WebPages.Deployment.dll
+I:\Projekt\Projekt\bin\System.Web.WebPages.dll
+I:\Projekt\Projekt\bin\System.Web.WebPages.Razor.dll
+I:\Projekt\Projekt\bin\WebActivatorEx.dll
+I:\Projekt\Projekt\bin\WebGrease.dll
+I:\Projekt\Projekt\bin\Castle.Core.xml
+I:\Projekt\Projekt\bin\EntityFramework.xml
+I:\Projekt\Projekt\bin\EntityFramework.SqlServer.xml
+I:\Projekt\Projekt\bin\Moq.xml
+I:\Projekt\Projekt\bin\Ninject.xml
+I:\Projekt\Projekt\bin\Ninject.Web.Common.xml
+I:\Projekt\Projekt\bin\Ninject.Web.Mvc.xml
+I:\Projekt\Projekt\bin\Rabbit.Bootstrap.xml
+I:\Projekt\Projekt\bin\System.Web.Helpers.xml
+I:\Projekt\Projekt\bin\System.Web.Mvc.xml
+I:\Projekt\Projekt\bin\System.Web.Optimization.xml
+I:\Projekt\Projekt\bin\System.Web.Razor.xml
+I:\Projekt\Projekt\bin\System.Web.WebPages.xml
+I:\Projekt\Projekt\bin\System.Web.WebPages.Deployment.xml
+I:\Projekt\Projekt\bin\System.Web.WebPages.Razor.xml
+I:\Projekt\Projekt\bin\Newtonsoft.Json.xml
+I:\Projekt\Projekt\bin\Antlr3.Runtime.pdb
+I:\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Core.xml
+I:\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\Projekt\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\Projekt\Projekt\bin\Microsoft.Owin.xml
+I:\Projekt\Projekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\Projekt\Projekt\bin\Microsoft.Owin.Security.xml
+I:\Projekt\Projekt\bin\Microsoft.Owin.Security.Facebook.xml
+I:\Projekt\Projekt\bin\Microsoft.Owin.Security.Cookies.xml
+I:\Projekt\Projekt\bin\Microsoft.Owin.Security.OAuth.xml
+I:\Projekt\Projekt\bin\Microsoft.Owin.Security.Google.xml
+I:\Projekt\Projekt\bin\Microsoft.Owin.Security.Twitter.xml
+I:\Projekt\Projekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+I:\Projekt\Projekt\obj\Debug\Projekt.dll
+I:\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Projekt.dll.config
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Projekt.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Projekt.pdb
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Antlr3.Runtime.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Castle.Core.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\EntityFramework.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\EntityFramework.SqlServer.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.Owin.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.Owin.Security.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Moq.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Newtonsoft.Json.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Ninject.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Ninject.Web.Common.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Ninject.Web.Mvc.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Owin.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Rabbit.Bootstrap.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\System.Web.Helpers.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\System.Web.Mvc.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\System.Web.Optimization.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\System.Web.Razor.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\System.Web.WebPages.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\System.Web.WebPages.Razor.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\WebActivatorEx.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\WebGrease.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Castle.Core.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\EntityFramework.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\EntityFramework.SqlServer.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Moq.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Ninject.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Ninject.Web.Common.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Ninject.Web.Mvc.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Rabbit.Bootstrap.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\System.Web.Helpers.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\System.Web.Mvc.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\System.Web.Optimization.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\System.Web.Razor.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\System.Web.WebPages.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\System.Web.WebPages.Razor.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Newtonsoft.Json.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Antlr3.Runtime.pdb
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.Owin.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.Owin.Security.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.dll
+C:\Users\Korisnik\Desktop\Projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Projekt.dll.config
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Projekt.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Projekt.pdb
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Antlr3.Runtime.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Castle.Core.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\EntityFramework.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\EntityFramework.SqlServer.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.AspNet.Identity.Core.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.Owin.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.Owin.Security.Cookies.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.Owin.Security.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.Owin.Security.Facebook.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.Owin.Security.Google.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.Owin.Security.OAuth.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.Owin.Security.Twitter.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.Web.Infrastructure.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Moq.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Newtonsoft.Json.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Ninject.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Ninject.Web.Common.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Ninject.Web.Mvc.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Owin.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Rabbit.Bootstrap.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\System.Web.Helpers.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\System.Web.Mvc.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\System.Web.Optimization.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\System.Web.Razor.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\System.Web.WebPages.Deployment.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\System.Web.WebPages.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\System.Web.WebPages.Razor.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\WebActivatorEx.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\WebGrease.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Castle.Core.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\EntityFramework.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\EntityFramework.SqlServer.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Moq.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Ninject.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Ninject.Web.Common.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Ninject.Web.Mvc.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Rabbit.Bootstrap.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\System.Web.Helpers.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\System.Web.Mvc.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\System.Web.Optimization.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\System.Web.Razor.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\System.Web.WebPages.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\System.Web.WebPages.Deployment.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\System.Web.WebPages.Razor.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Newtonsoft.Json.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Antlr3.Runtime.pdb
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.AspNet.Identity.Core.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.Owin.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.Owin.Security.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.Owin.Security.Facebook.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.Owin.Security.Cookies.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.Owin.Security.OAuth.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.Owin.Security.Google.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.Owin.Security.Twitter.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\obj\Debug\Projekt.dll
+I:\d\faks\OBJEKPROG\C#-Projekt-Hrvoje Cimas1\Projekt-Hrvoje Cimas\Projekt\obj\Debug\Projekt.pdb
